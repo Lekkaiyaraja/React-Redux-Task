@@ -18,5 +18,5 @@ This application is a cart page built using React and Redux Toolkit. It allows u
    First, clone the repository from GitHub:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/Lekkaiyaraja/React-Redux-Task.git
+   cd React-Redux-Task>
